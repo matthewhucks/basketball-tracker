@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/basketball-tracker/static/css/main.c937d7ba.css",
-    "main.js": "/basketball-tracker/static/js/main.e7d7c861.js",
+    "main.css": "/basketball-tracker/static/css/main.276d29be.css",
+    "main.js": "/basketball-tracker/static/js/main.5ab3707d.js",
     "static/js/453.f93c3c54.chunk.js": "/basketball-tracker/static/js/453.f93c3c54.chunk.js",
     "index.html": "/basketball-tracker/index.html",
-    "main.c937d7ba.css.map": "/basketball-tracker/static/css/main.c937d7ba.css.map",
-    "main.e7d7c861.js.map": "/basketball-tracker/static/js/main.e7d7c861.js.map",
+    "main.276d29be.css.map": "/basketball-tracker/static/css/main.276d29be.css.map",
+    "main.5ab3707d.js.map": "/basketball-tracker/static/js/main.5ab3707d.js.map",
     "453.f93c3c54.chunk.js.map": "/basketball-tracker/static/js/453.f93c3c54.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c937d7ba.css",
-    "static/js/main.e7d7c861.js"
+    "static/css/main.276d29be.css",
+    "static/js/main.5ab3707d.js"
   ]
 }
